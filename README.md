@@ -1,6 +1,8 @@
-👋 Hi there, I'm Afia!
+
 ![Afia's GitHub stats](https://github-readme-stats.vercel.app/api?username=afia-raisa&show_icons=true)
 
+
+👋 Hi there, I'm Afia!
 🔧 I’m a passionate programmer exploring the world of software development  
 💡 Currently diving deep into **Flutter** and **mobile app development**  
 🐱‍💻 Proficient in **C** ,**C++**  and actively learning **SQL** and **database design**  
